@@ -25,15 +25,15 @@
 
 <p align="center">
   <a href="https://github.com/Kasun077/CHESCOLA.git">
-    <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FBlackAmda%2FQueenAmdi&count_bg=%2379C83D&title_bg=%23555555&icon=gitpod.svg&icon_color=%23E7E7E7&title=Views&edge_flat=false" alt="Views"/></a>
+    <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FKASUN%2FCHESCOLA&count_bg=%2379C83D&title_bg=%23555555&icon=gitpod.svg&icon_color=%23E7E7E7&title=Views&edge_flat=false" alt="Views"/></a>
   
   </a>
   <a https://github.com/Kasun077/CHESCOLA.git/fork">
-    <img src="https://img.shields.io/github/forks/BlackAmda/QueenAmdi?label=Fork&style=social">
+    <img src="https://img.shields.io/github/forks/Kasun/CHESCOLA-KS?label=Fork&style=social">
     
   </a>
   <a href="https://github.com/Kasun077/CHESCOLA.git/stargazers">
-    <img src="https://img.shields.io/github/stars/BlackAmda/QueenAmdi?style=social">
+    <img src="https://img.shields.io/github/stars/Kasun/CHESCOLA-KS?style=social">
   </a>
 </p>
 
@@ -72,13 +72,13 @@ CHESCOLA KS bot යනු සංවර්ධනය සඳහා විවෘත 
 
 ## CHESCOLA KS bot විශේෂාංග
 CHESCOLA KS bot විශේෂාංග මෙන්න.
-<a href="https://gist.github.com/BlackAmda/28493a9b3e4f6f7ade7774a68b7c1c05">
+<a href="https://gist.github.com/Kasun/28493a9b3e4f6f7ade7774a68b7c1c05">
     <img src="https://img.shields.io/badge/Click%20here-purple&style=plastic">
 
   </a>
 
 නව යාවත්කාලීන කිරීම් බැලීමට මෙය ක්ලික් කරන්න(Updates). 
-<a href="https://gist.github.com/BlackAmda/890b6b31fcb8d376d6a68afcb7359324">
+<a href="https://gist.github.com/Kasun/890b6b31fcb8d376d6a68afcb7359324">
     <img src="https://img.shields.io/badge/Click%20here-purple&style=plastic">
 
   </a>
@@ -114,7 +114,7 @@ $ `bash <(curl -L https://t.ly/tHxh)`
 
 #### 02. Click Deploy button
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/BlackAmda/QueenAmdi)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Kasun/CHESCOLA-KS)
 
 AN Tech Official Youtube Channel : https://www.youtube.com/channel/UCZx8U1EU95-Wn9mH4dn15vQ
 
@@ -132,7 +132,7 @@ AN Tech Official Youtube Channel : https://www.youtube.com/channel/UCZx8U1EU95-W
 ### මෙම බොට් ගෙවිය යුතුද?
 **ඇත්ත වශයෙන්ම නැත.** එය කිසි විටෙකත් සිදු නොවේ. නමුත් ඔබට අපට donation කළ හැකිය. You can reach me via [Whatsapp](https://wa.me/94718797893) .
 
-විස්තර සහිත සියලුම විධාන මෙන්න. [GistHub](https://gist.github.com/BlackAmda/28493a9b3e4f6f7ade7774a68b7c1c05)
+විස්තර සහිත සියලුම විධාන මෙන්න. [GistHub](https://gist.github.com/Kasun/28493a9b3e4f6f7ade7774a68b7c1c05)
 
 ## සැමට ස්තූතියි! 
 ### අපි ඔබව සැමවිටම මතක තබා ගන්නෙමු..
